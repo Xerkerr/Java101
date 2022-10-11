@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class kullanicigirisi {
     public static void main(String[] args){
         String username, password;
 
@@ -12,7 +12,9 @@ public class Main {
     System.out.println("sifreniz ");
     password = inp.nextLine();
 
-    if (username.equals("patika") && (password.equals("123213") ));
+    if (username.equals("patika") && (password.equals("123213") )){
+    
+    }
         System.out.println("sokuldun !" );
 
     }
