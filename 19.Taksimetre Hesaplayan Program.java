@@ -13,7 +13,7 @@ public class Main {
         total += startPrice;
 
         System.out.println("giren ücret : " + total);
-
+//taksimetre
 
 
     }
